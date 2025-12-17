@@ -28,5 +28,4 @@ This project demonstrates the integration of **computer vision, hand tracking, a
 _Add a screenshot of the working application below:_
 
 ```md
-![Air Canvas Demo](<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/5140c255-25e4-4471-b4e5-668c61e4a2fb" />
-)
+![Air Canvas Demo]("C:\Users\gandh\Downloads\Aircanvas_output.jpg")
