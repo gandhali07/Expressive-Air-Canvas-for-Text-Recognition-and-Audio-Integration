@@ -24,7 +24,7 @@ This project demonstrates the integration of **computer vision, hand tracking, a
 
 ---
 
-## 📸 Project Screenshot
+## Project Screenshot
 ![Air Canvas Demo](Aircanvas_output.png)
 
 
